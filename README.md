@@ -30,7 +30,7 @@ This script will install all [requirements][requirements], and then install
 1. Run this as root user (`sudo su`):
 
 ```bash
-curl -sL https://raw.githubusercontent.com/dale3h/hassio-installer/master/hassio_rpi3bp | bash -s
+curl -sL https://raw.githubusercontent.com/arturb-dev/hassio-installer/master/hassio_rpi3bp | bash -s
 ```
 
 ## Known Issues
@@ -81,11 +81,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [changelog]: CHANGELOG.md
-[discord]: https://discord.gg/u26F9Kw
-[donate]: https://www.buymeacoffee.com/dale3h
 [enable-ssh]: https://howchoo.com/g/ote0ywmzywj/how-to-enable-ssh-on-raspbian-jessie-without-a-screen
 [hass-io]: https://www.home-assistant.io/hassio/
-[hassio-installer]: https://github.com/dale3h/hassio-installer
+[hassio-installer]: https://github.com/arturb-dev/hassio-installer
 [issues]: /issues
 [keep-a-changelog]: https://keepachangelog.com/en/1.0.0/
 [raspberry-pi]: http://a.co/ciXqByX
